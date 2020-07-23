@@ -1,0 +1,31 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "port": "^0.8.1",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hilarey/go_it_nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hilarey/go_it_nodeJS/issues"
+  },
+  "homepage": "https://github.com/Hilarey/go_it_nodeJS#readme"
+}
